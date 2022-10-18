@@ -1,2 +1,2 @@
 # FACEMASKDETECTION-
-PROJECT BY Satyanarayana and Vani rao
+PROJECT BY Yuvateja
